@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<rect width="640" height="360" fill="#ecece8"/><rect x="75" y="48" width="490" height="265" rx="12" fill="#fff" stroke="#777" stroke-width="5"/>
+<rect x="75" y="48" width="490" height="42" rx="10" fill="#c8c8c0"/><circle cx="102" cy="69" r="7" fill="#777"/><circle cx="126" cy="69" r="7" fill="#999"/><circle cx="150" cy="69" r="7" fill="#aaa"/>
+<rect x="112" y="120" width="180" height="18" fill="#999"/><rect x="112" y="158" width="400" height="12" fill="#d0d0ca"/><rect x="112" y="184" width="350" height="12" fill="#d0d0ca"/><rect x="112" y="225" width="115" height="48" rx="5" fill="#b4b4ac"/>
+<text x="320" y="340" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#444">Personal portfolio project</text></svg>

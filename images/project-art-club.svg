@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<rect width="640" height="360" fill="#eeeeea"/><rect x="70" y="45" width="500" height="270" rx="14" fill="#fff" stroke="#888" stroke-width="4"/>
+<text x="320" y="95" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#444">ART CLUB SHOWCASE</text>
+<rect x="110" y="125" width="115" height="125" fill="#d7d7cf"/><circle cx="167" cy="166" r="27" fill="#99998f"/><path d="M120 235l35-42 26 24 22-31 12 49z" fill="#aaa99f"/>
+<rect x="263" y="125" width="115" height="125" fill="#e2e2dc"/><circle cx="320" cy="170" r="30" fill="#b5b5ac"/><path d="M275 235l45-48 44 48z" fill="#92928a"/>
+<rect x="416" y="125" width="115" height="125" fill="#d4d4cd"/><path d="M430 225l38-75 48 75z" fill="#a2a298"/>
+<text x="320" y="288" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#555">Group project concept</text></svg>

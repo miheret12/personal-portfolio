@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal portfolio of a Software Engineering student.">
+    <title>Contact Me | My Personal Portfolio</title>
+</head>
+<body>
+<header>
+    <h1>My Personal Portfolio</h1>
+    <p>Software Engineering Student | Curious Learner | Future Builder</p>
+    <nav aria-label="Main navigation">
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Me</a> |
+        <a href="skills.html">Skills &amp; Education</a> |
+        <a href="projects.html">Projects</a> |
+        <a href="media.html">Media &amp; Interests</a> |
+        <a href="contact.html">Contact</a>
+    </nav>
+    <hr>
+</header>
+
+<main>
+
+    <section>
+        <h2>Get in Touch</h2>
+        <p>Thank you for visiting my portfolio. I enjoy learning, exploring new ideas, and connecting with people who share an interest in technology, creativity, and continuous learning.
+        </p>
+        <p><strong>Email:</strong><a href="mailto:miherettefera12@gmail.com">Send me an email</a></p>
+        <p><strong>GitHub:</strong> <a href="https://github.com/miheret12" target="_blank">
+        Visit my GitHub profile</a></p>
+        <p><strong>Location:</strong> Ethiopia</p>
+    </section>
+
+    <section>
+        <h2>Send Me a Message</h2>
+        <p>the formis not connected with any backend</p>
+        <form action="#" method="get">
+            <fieldset>
+                <legend>Personal Information</legend>
+
+                <p>
+                    <label for="fullname">Full Name:</label><br>
+                    <input type="text" id="fullname" name="fullname" placeholder="Enter your full name" required minlength="2">
+                </p>
+
+                <p>
+                    <label for="email">Email Address:</label><br>
+                    <input type="email" id="email" name="email" placeholder="you@example.com" required>
+                </p>
+
+                <p>
+                    <label for="phone">Phone Number:</label><br>
+                    <input type="tel" id="phone" name="phone" placeholder="+251 9XX XXX XXX">
+                </p>
+
+                <p>
+                    <label for="website">Your Website:</label><br>
+                    <input type="url" id="website" name="website" placeholder="https://example.com">
+                </p>
+            </fieldset>
+
+            <fieldset>
+                <legend>Message Details</legend>
+
+                <p>
+                    <label for="subject">Subject:</label><br>
+                    <select id="subject" name="subject" required>
+                        <option value="">-- Select a subject --</option>
+                        <option value="question">General question</option>
+                        <option value="feedback">Website feedback</option>
+                        <option value="collaboration">Project collaboration</option>
+                        <option value="other">Other</option>
+                    </select>
+                </p>
+
+                <p>How did you find my website?</p>
+                <input type="radio" id="search" name="source" value="search">
+                <label for="search">Search engine</label><br>
+                <input type="radio" id="social" name="source" value="social">
+                <label for="social">Social media</label><br>
+                <input type="radio" id="friend" name="source" value="friend">
+                <label for="friend">Friend or colleague</label>
+
+                <p>
+                    <label for="message">Your Message:</label><br>
+                    <textarea id="message" name="message" rows="6" cols="40" placeholder="Write your message here..." required minlength="10"></textarea>
+                </p>
+            </fieldset>
+
+            <fieldset>
+                <legend>Optional Information</legend>
+
+                <p>
+                    <label for="date">Preferred Contact Date:</label><br>
+                    <input type="date" id="date" name="date">
+                </p>
+
+                <p>
+                    <label for="color">Choose a Favourite Color:</label><br>
+                    <input type="color" id="color" name="color" value="#777777">
+                </p>
+
+                <p>
+                    <label for="rating">Rate My Website (1–10):</label><br>
+                    <input type="range" id="rating" name="rating" min="1" max="10" value="5">
+                </p>
+
+                <p>
+                    <input type="checkbox" id="reply" name="reply" value="yes">
+                    <label for="reply">I would like a reply to my message.</label>
+                </p>
+            </fieldset>
+
+            <p>
+                <button type="submit">Submit Message</button>
+                <button type="reset">Clear Form</button>
+            </p>
+        </form>
+    </section>
+
+</main>
+
+<hr>
+<footer>
+    <p>&copy; 2026 My Personal Portfolio.</p>
+    <p><a href="contact.html">Get in touch</a> | <a href="index.html">Back to home</a></p>
+</footer>
+</body>
+</html>
